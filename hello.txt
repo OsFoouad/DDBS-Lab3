@@ -1,0 +1,5 @@
+In the name of allah 
+test file for File I/O  and way to
+get the number of occureance of a specific letter
+run the file then enter the desired letter 
+and get your results .
